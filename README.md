@@ -20,13 +20,13 @@ The self-registration is configured directly in [keycloak](https://www.keycloak.
 ## Wallet
 Each user as a wallet whose private key is kept encrypted in the server.
 The wallet page display the current balance and the list of transactions.
-Those come from the `dronecoin` smart contract deployed on liquichain. 
+Those come from the `dronegas` smart contract deployed on liquichain. 
 
 For testnet, the contract address is `0xAfF3df5Ff595D7b2Fe5aEEe6c10693CdEA6CFc52`
 
 ### Top up
-In order to launch investigations, users need dronecoins.
-A Topup page on the portal allow to buy dronecoins with Fiat money using paypal.
+In order to launch investigations, users need dronegas.
+A Topup page on the portal allow to buy dronegas with Fiat money using paypal.
 
 ## Profile management
 In the profile section of the site, the user can update his information like name, tel, company name,address.
