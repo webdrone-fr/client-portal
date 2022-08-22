@@ -22,6 +22,8 @@ Each user as a wallet whose private key is kept encrypted in the server.
 The wallet page display the current balance and the list of transactions.
 Those come from the `dronecoin` smart contract deployed on liquichain. 
 
+For testnet, the contract address is `0xAfF3df5Ff595D7b2Fe5aEEe6c10693CdEA6CFc52`
+
 ### Top up
 In order to launch investigations, users need dronecoins.
 A Topup page on the portal allow to buy dronecoins with Fiat money using paypal.
