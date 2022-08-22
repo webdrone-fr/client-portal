@@ -1,5 +1,4 @@
 import { LitElement, html, css } from "lit";
-import "./mv-keycloak.js";
 
 export class WdPortal extends LitElement {
   static get properties() {
