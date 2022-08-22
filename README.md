@@ -17,9 +17,14 @@ By clicking the Register link, a form allow the user the create an account
 The self-registration is configured directly in [keycloak](https://www.keycloak.org/docs/latest/server_admin/#con-user-registration_server_administration_guide)
 
 
-## Top up
-In order to launch investigations, users need credit.
-A Topup page on the portal allow to buy credit using paypal.
+## Wallet
+Each user as a wallet whose private key is kept encrypted in the server.
+The wallet page display the current balance and the list of transactions.
+Those come from the `dronecoin` smart contract deployed on liquichain. 
+
+### Top up
+In order to launch investigations, users need dronecoins.
+A Topup page on the portal allow to buy dronecoins with Fiat money using paypal.
 
 ## Profile management
 In the profile section of the site, the user can update his information like name, tel, company name,address.
