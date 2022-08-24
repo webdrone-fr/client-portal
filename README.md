@@ -38,13 +38,13 @@ When a user access the url `https://portal.webdrone.fr`, they are directed to th
 By clicking the Register link, a form allow the user the create an account
 ![image](https://user-images.githubusercontent.com/16659140/185819477-5f28a909-1fba-4dc7-88c3-64ae614e6cb5.png)
 
-### Investigations
+### Investigations List
 (images created on https://utext.github.io)
 
+<!-- 
 ===Webdrone portal___________Notifs|Logout===
 [[profile][billing][investigations]]
 [/investigations/list]
-
 |Date|type|nom|result|status|
 |02/08/2022 | Agent | Emmanuel Macron | 1223|Running|
 |01/08/2022 | IP | 127.0.0.1 | 12 |Paused|
@@ -53,9 +53,12 @@ By clicking the Register link, a form allow the user the create an account
 [1,2,3,4]
 [New agent investigation] [New product investigation] 
 ===
-
+-->
 ![image](https://user-images.githubusercontent.com/16659140/186422881-b9136dbe-2245-4585-bc66-c61e7a2e843f.png)
 
+
+### Agent Investigation creation
+<!-- 
 ===Webdrone portal___________Notifs|Logout===
 [[profile][billing][investigations]]
 [/investigations/agent]
@@ -66,6 +69,6 @@ Lastname : ___
 Pseudo : ___
 [Create]
 ===
-
+-->
 ![image](https://user-images.githubusercontent.com/16659140/186431381-96500eb4-106b-432c-86cd-6de8972f914d.png)
 
