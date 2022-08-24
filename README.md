@@ -27,6 +27,6 @@ A Topup page on the portal allow to buy dronegas with Fiat money using paypal.
 In the profile section of the site, the user can update his information like name, tel, company name,address.
 We will use the keycloak frontend for that.
 
-### [Investigations](](./investigation/README.md)
+### [Investigations](./investigation/README.md)
 A page list users' investigations and allow him to create new ones.
 
