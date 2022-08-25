@@ -30,3 +30,11 @@ We will use the keycloak frontend for that.
 ### [Investigations](./investigation/README.md)
 A page list users' investigations and allow him to create new ones.
 
+## Layout
+Once logged in the header displays on the right three icons
+* a bell that has a dot when there are unread notifications
+* a plus menu icon that allow user to create investigations
+* a profile menu icon that allow to access his profile and logout
+
+![image](https://user-images.githubusercontent.com/16659140/186566707-cb1ad1ff-aecc-4b94-bd07-25a11d5ca0cb.png)
+
