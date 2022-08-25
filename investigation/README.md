@@ -1,7 +1,9 @@
 ### Investigations List
-(images created on https://utext.github.io)
+
+The investigation list page serves as a landing page
 
 <!-- 
+(images created on https://utext.github.io)
 ===Webdrone portal___________Notifs|Logout===
 [[profile][billing][investigations]]
 [/investigations/list]
@@ -14,7 +16,8 @@
 [New agent investigation] [New product investigation] 
 ===
 -->
-![image](https://user-images.githubusercontent.com/16659140/186422881-b9136dbe-2245-4585-bc66-c61e7a2e843f.png)
+![image](https://user-images.githubusercontent.com/16659140/186571775-668d3900-d7df-4332-9fb2-5d376d04952b.png)
+
 
 
 ### Agent Investigation creation
@@ -30,4 +33,5 @@ Pseudo : ___
 [Create]
 ===
 -->
-![image](https://user-images.githubusercontent.com/16659140/186431381-96500eb4-106b-432c-86cd-6de8972f914d.png)
+![image](https://user-images.githubusercontent.com/16659140/186572533-ab3d7908-bad2-446e-81b5-f3b817ee7d85.png)
+
